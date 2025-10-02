@@ -2,8 +2,9 @@ html {
        background-color: rgb(32, 114, 18);
        background-image: url("Grass.jpg");
        background-repeat: repeat;
-       overflow: hidden;   
-       min-height: 100%;
+       overflow: hidden; 
+       overflow-y: hidden;
+       max-height: 100%;
        background-size: cover;
 }
 
