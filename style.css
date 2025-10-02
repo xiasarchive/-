@@ -3,6 +3,7 @@ html {
        background-image: url("Grass.jpg");
        background-repeat: repeat;
        overflow: hidden;   
+       min-height: 100%;
 }
 
 #whole {
