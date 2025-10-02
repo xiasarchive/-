@@ -3,7 +3,8 @@ html {
        background-image: url("Grass.jpg");
        background-repeat: repeat;
        overflow: hidden;  
-        box-shadow: inset 0 0 200px rgba(255, 255, 255, 0.9);
+       height: 100%;
+       box-shadow: inset 0 0 200px rgba(255, 255, 255, 0.9);
 
 }
 
@@ -49,4 +50,5 @@ html {
     text-justify: inter-word;
     color: rgb(255, 255, 255);
 }
+
 
