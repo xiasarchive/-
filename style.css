@@ -4,6 +4,7 @@ html {
        background-repeat: repeat;
        overflow: hidden;   
        min-height: 100%;
+       background-size: cover;
 }
 
 #whole {
